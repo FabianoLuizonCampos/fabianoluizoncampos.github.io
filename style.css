@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+:root {
+    --background-color: #fff;
+    --text-color: #272727;
+}
+
+html {
+    color-scheme: light;
+}
+
+/* Outros estilos */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
+
+.container div {
+    margin: 60px 0;
+}
+
+button {
+    padding: 12px 15px;
+    border-radius: 50%;
+
+    border: none;
+    background-color: #dd203c;
+    color: white;
+    cursor: pointer;
+}
+
+.sem-audio {
+    background-color: #dd203c;
+    color: white;
+}
+
+.com-audio {
+    background-color: #4748480d;
+    color: white;
+}
+
+input {
+    min-width: 300px;
+    padding: 12px 15px;
+    border: none;
+    border-bottom: 1px solid #272727;    
+}
+
+input:focus {
+    outline: none;
+}
+
+.barra_lateral {
+    width: 60px;
+    height: 100vh;
+    position: absolute;
+    left: 0;
+    background-color: #dd203c;
+}
+
+#darkModeToggle {
+    margin-top: 50px;
+}
+
+

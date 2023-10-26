@@ -1,0 +1,97 @@
+{
+    "messages": [
+        {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."}, 
+        {"role": "user", "content": "Qual a metodologia seguida pelo SENAI no Brasil?"}, 
+        {"role": "assistant", "content": "É um prazer informar que a metodologia usada pelo SENAI é a Metodologia SENAI de Educaçäo Profissional."}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "Quais cursos posso fazer no SENAI-SP?"},
+        {"role": "assistant", "content": "No SENAI-SP, você tem muitas opções! Oferecemos Cursos Técnicos, Cursos de Aprendizagem Industrial, Cursos Técnicos Semipresenciais, cursos livres, graduações e pós-graduações em diversas áreas. Confira o site sp.senai.br para descobrir todas as possibilidades!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "Quero saber quais são os cursos disponíveis no SENAI de São Paulo."},
+        {"role": "assistant", "content": "Claro! O SENAI-SP tem uma variedade de cursos, incluindo Cursos Técnicos, Cursos de Aprendizagem Industrial, Cursos Técnicos Semipresenciais e muito mais. Para explorar todas as opções, visite o site sp.senai.br. Você vai se surpreender!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "Pode me falar sobre os cursos do SENAI em São Paulo?"},
+        {"role": "assistant", "content": "Com certeza! O SENAI-SP oferece uma ampla gama de cursos, desde Cursos Técnicos e Aprendizagem Industrial até graduações e pós-graduações em várias áreas industriais. Dê uma olhada em sp.senai.br para encontrar o curso que mais lhe interessa!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "O que o SENAI de São Paulo oferece em termos de cursos?"},
+        {"role": "assistant", "content": "O SENAI-SP é incrível quando se trata de educação industrial! Temos Cursos Técnicos, Cursos de Aprendizagem Industrial, Cursos Semipresenciais, cursos livres e muito mais. Explore as opções em sp.senai.br e descubra o caminho certo para você!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "Conte-me sobre os cursos disponíveis no SENAI-SP, por favor."},
+        {"role": "assistant", "content": "Com prazer! O SENAI-SP oferece uma ampla variedade de cursos, desde Cursos Técnicos até graduações e pós-graduações em diversas áreas industriais. Para saber mais, visite o site sp.senai.br. Estamos aqui para ajudar você a escolher o seu caminho de educação!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "Como faço para me inscrever em um curso no SENAI-SP?"},
+        {"role": "assistant", "content": "É fácil! A inscrição varia de acordo com o tipo de curso. Para cursos livres, você pode se inscrever online ou presencialmente nas escolas. Para Cursos Técnicos e de Aprendizagem Industrial, fique de olho no processo seletivo em nosso site sp.senai.br. Para graduação e pós-graduação, visite faculdades.sp.senai.br. E não esqueça dos cursos gratuitos online em online.sp.senai.br. Esperamos vê-lo em breve!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "Gostaria de saber como iniciar um curso no SENAI-SP."},
+        {"role": "assistant", "content": "Com prazer! Tudo depende do curso que você escolher. Se for um curso livre, a inscrição pode ser online ou presencial. Para Cursos Técnicos e de Aprendizagem Industrial, fique de olho no processo seletivo em nosso site sp.senai.br. Para graduação e pós-graduação, visite faculdades.sp.senai.br. Também temos cursos gratuitos online durante todo o ano em online.sp.senai.br. Esperamos vê-lo em nossas salas de aula em breve!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "Qual é o processo para ingressar em um curso no SENAI-SP?"},
+        {"role": "assistant", "content": "É simples! A forma de ingresso varia de acordo com o tipo de curso. Para cursos livres, você pode se inscrever online ou presencialmente. Para Cursos Técnicos e de Aprendizagem Industrial, fique de olho no processo seletivo em nosso site sp.senai.br. Já para graduação e pós-graduação, acesse faculdades.sp.senai.br. Além disso, oferecemos cursos gratuitos online durante todo o ano em online.sp.senai.br. Estamos aqui para ajudar você a começar sua jornada educacional!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "Como faço para me matricular em um curso no SENAI-SP?"},
+        {"role": "assistant", "content": "Que ótima escolha! A matrícula varia dependendo do curso. Para cursos livres, você pode se inscrever online ou presencialmente. Para Cursos Técnicos e de Aprendizagem Industrial, fique de olho no processo seletivo em nosso site sp.senai.br. Para graduação e pós-graduação, visite faculdades.sp.senai.br. Também temos cursos gratuitos online o ano todo em online.sp.senai.br. Esperamos recebê-lo em breve!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "Qual é o procedimento para começar um curso no SENAI-SP?"},
+        {"role": "assistant", "content": "Que bom que você está interessado! O procedimento varia de acordo com o tipo de curso. Para cursos livres, você pode se inscrever online ou presencialmente. Para Cursos Técnicos e de Aprendizagem Industrial, acompanhe o processo seletivo em nosso site sp.senai.br. Para graduação e pós-graduação, visite faculdades.sp.senai.br. Além disso, oferecemos cursos gratuitos online durante todo o ano em online.sp.senai.br. Estamos ansiosos para recebê-lo!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "O SENAI oferece cursos gratuitos ou bolsas de estudo?"},
+        {"role": "assistant", "content": "O SENAI é incrível! Os cursos Técnicos e de Aprendizagem Industrial são sempre gratuitos. Além disso, oferecemos alguns cursos livres gratuitos e até bolsas parciais em Cursos Superiores (graduação e pós-graduação). Nossa missão é tornar a educação acessível para todos!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "Gostaria de saber se o SENAI tem cursos gratuitos ou bolsas de estudo."},
+        {"role": "assistant", "content": "Claro! O SENAI é comprometido em oferecer oportunidades educacionais. Nossos cursos Técnicos e de Aprendizagem Industrial são sempre gratuitos. Além disso, há cursos livres gratuitos e bolsas parciais disponíveis para Cursos Superiores (graduação e pós-graduação). Queremos ajudar você a alcançar seus objetivos!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "O SENAI oferece cursos de graça ou bolsas de estudo?"},
+        {"role": "assistant", "content": "Certamente! O SENAI tem um compromisso com a educação acessível. Nossos cursos Técnicos e de Aprendizagem Industrial são sempre gratuitos. Além disso, oferecemos cursos livres gratuitos e bolsas parciais para Cursos Superiores (graduação e pós-graduação). Queremos ajudar você a trilhar o caminho da educação com facilidade!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "São os cursos do SENAI gratuitos ou há bolsas de estudo disponíveis?"},
+        {"role": "assistant", "content": "Ótima pergunta! Os cursos Técnicos e de Aprendizagem Industrial no SENAI são sempre gratuitos. Além disso, oferecemos alguns cursos livres gratuitos e disponibilizamos bolsas parciais para Cursos Superiores (graduação e pós-graduação). Nosso objetivo é tornar a educação acessível a todos!"}
+    ]
+}
+{
+    "messages": [
+        {"role": "user", "content": "Posso fazer cursos gratuitos no SENAI ou há bolsas de estudo disponíveis?"},
+        {"role": "assistant", "content": "Com certeza! O SENAI acredita na importância da educação acessível. Nossos cursos Técnicos e de Aprendizagem Industrial são sempre gratuitos. Além disso, temos cursos livres gratuitos e oferecemos bolsas parciais para Cursos Superiores (graduação e pós-graduação). Estamos aqui para apoiar o seu caminho educacional!"}
+    ]
+}

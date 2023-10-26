@@ -1,0 +1,55 @@
+Leia e entenda a estrutura abaixo:
+
+{
+    "messages": [
+        {"role": "system", "content": "Jarvis é um chatbot pontual e muito simpático que ajuda as pessoas."}, 
+        {"role": "user", "content": "Qual a metodologia seguida pelo SENAI no Brasil?"}, 
+        {"role": "assistant", "content": "É um prazer informar que a metodologia usada pelo SENAI é a Metodologia SENAI de Educaçäo Profissional."}
+    ]
+}
+
+
+
+Gere 5 variaçoes de perguntas e respotas para os textos abaixo, de forma super simpática, já no formato JSONL com a estrutura que lhe passei:
+
+Pergunta:QUAIS SÃO OS CURSOS OFERECIDOS PELO SENAI EM SÃO PAULO? 
+Responta:O SENAI-SP oferece Cursos Técnicos, Cursos de Aprendizagem Industrial para empresas e para a comunidade, Cursos Técnicos Semipresenciais, cursos livres, graduações e pós-graduações em 28 áreas da indústria brasileira.Acesse o site sp.senai.br e navegue por todos os títulos entre os setores de Administração e Gestão; Alimentos e Bebidas; Construção Civil e Design de Mobiliário; Design de Moda, Têxtil, Vestuário, Calçados e Joalheira; Design Gráfico, Papel, Celulose, Gráfica e Editorial; Fabricação Mecânica e Manutenção Industrial; Logística e Transporte; Mecânica Automotiva; Mecatrônica, Sistemas de Automação, Energia e Eletrônica; Meio Ambiente, Saúde e Segurança do Trabalho; Metalurgia e Soldagem; Química, Cerâmica e Plásticos; Refrigeração e Climatização; e Tecnologia da Informação e Informática.
+
+
+
+
+
+
+Gere 5 variaçoes de perguntas e respotas para os textos abaixo, de forma super simpática, já no formato JSONL com a estrutura que lhe passei:
+
+Pergunta:COMO FAZER CURSO NO SENAI SP?
+Responta:Depende de qual curso você deseja realizar. Para os cursos livres, as inscrições acontecem de forma online ou presencialmente nas escolas. Para realizar os Cursos Técnicos e de Aprendizagem Industrial, é preciso participar de processo seletivo, que normalmente acontece duas vezes por ano e pode ser acompanhado através do nosso site: sp.senai.br. Já para saber sobre as turmas de graduação e pós-graduação, acesse faculdades.sp.senai.br. Também temos cursos gratuitos online, que podem ser realizados ao longo de todo o ano, no link online.sp.senai.br.
+
+
+
+
+
+
+Gere 5 variaçoes de perguntas e respotas para os textos abaixo, de forma super simpática, já no formato JSONL com a estrutura que lhe passei:
+
+Pergunta:SENAI É GRATUITO OU OFERECE BOLSA DE ESTUDOS?
+Responta:Os cursos Técnicos e de Aprendizagem Industrial são sempre gratuitos. Além deles, o SENAI-SP oferece alguns cursos livres gratuitos e ainda oferta bolsas parciais em Cursos Superiores (graduação e pós-graduação).
+
+
+
+
+
+Gere 5 variaçoes de perguntas e respotas para os textos abaixo, de forma super simpática, já no formato JSONL com a estrutura que lhe passei:
+
+Pergunta:QUANTO CUSTA UM CURSO NO SENAI?
+Responta:Todos os Cursos Técnicos presenciais e de Aprendizagem Industrial do SENAI-SP são gratuitos. Você também encontra uma lista de cursos livres gratuitos em nosso site. Para os cursos de graduação e pós-graduação, consulte valores em faculdades.sp.senai.br.
+
+
+
+
+Gere 5 variaçoes de perguntas e respotas para os textos abaixo, de forma super simpática, já no formato JSONL com a estrutura que lhe passei, náo esqueça de incluir o system e inclua em um unico codigo:
+
+Pergunta:O QUE SÃO CURSOS TÉCNICOS E QUEM PODE FAZER?
+Responta:Os Cursos Técnicos são cursos desenvolvidos para a capacitação teórica e prática de alunos para trabalhar nas mais diversas áreas tecnológicas do ramo industrial. Para fazer os Cursos Técnicos oferecidos pelo SENAI-SP nos períodos da manhã, tarde e noite, é necessário que a pessoa interessada conclua a 1ª série do Ensino Médio até a data de início das aulas. Para os cursos oferecidos no turno da noite, é necessário ter o Ensino Médio completo até o início das aulas.
+
+
